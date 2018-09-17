@@ -1,0 +1,31 @@
+_repo: A-History-of-Booksellers-the-Old-and-the-New_52362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwen, Henry
+    birthdate: 1845
+    deathdate: 1892
+    gutenberg_agent_id: '46815'
+    url: http://www.gutenberg.org/2009/agents/46815
+description: ''
+gutenberg_issued: '2016-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Booksellers and bookselling -- Great Britain -- History'
+- !lcsh 'Book industries and trade -- Great Britain -- History'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: The booksellers of olden times -- The Longman family -- Constable,
+  Cadell, and Black -- John Murray -- William Blackwood -- Chambers, Knight, and Cassell
+  -- Henry Colburn -- The Rivingtons, the Parkers, and James Nisbet -- Butterworth
+  and Churchill -- Edward Moxon -- Kelly and Virtue -- Thomas Tegg -- Thomas Nelson
+  -- Simpkin, Marshall, and Co. -- Charles Edward Mudie -- W. H. Smith and Son --
+  Provincial booksellers.
+title: A History of Booksellers, the Old and the New
+url: http://www.gutenberg.org/ebooks/52362
