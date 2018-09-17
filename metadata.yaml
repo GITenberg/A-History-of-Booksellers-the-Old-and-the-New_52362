@@ -1,5 +1,8 @@
 _repo: A-History-of-Booksellers-the-Old-and-the-New_52362
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52362-h/images/cover.jpg
 creator:
   author:
     agent_name: Curwen, Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46815'
     url: http://www.gutenberg.org/2009/agents/46815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52362#A-History-of-Booksellers-the-Old-and-the-New
 gutenberg_issued: '2016-06-18'
 gutenberg_type: Text
 identifiers:
